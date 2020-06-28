@@ -11,4 +11,3 @@
 - https://github.com/vikpe/react-webpack-typescript-starter - react-ts-webpack
 - https://github.com/microsoft/TypeScript-React-Starter - react, redux, typescript
 - https://github.com/react-boilerplate/react-boilerplate-cra-template - react, typescript, webpack, cra
-
